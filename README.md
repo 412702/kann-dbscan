@@ -4,4 +4,3 @@ I'm not the author, and just try to code it with python MyFunction.py is the fil
 部分代码来自参考 https://github.com/412702/KANN-DBSCAN
 基于 python3.7
 当时使用的IDE为Spyder(Anaconda3)
-如果有什么问题可以联系我zhangchunli@mail.dlut.edu.cn
